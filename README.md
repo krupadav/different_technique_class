@@ -1,0 +1,1 @@
+# different_technique_class
