@@ -1,1 +1,3 @@
-# different_technique_class
+# different_technique_class:
+name mangling
+super method
